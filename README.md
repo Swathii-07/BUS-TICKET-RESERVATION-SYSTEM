@@ -6,15 +6,11 @@
 
 
 - Swing-based graphical interface
-- Add/manage buses and routes
+- Add/manage buses and routes [Admin]
+- User login with captcha
+- Book/cancel seats
+- Persistent storage using MySQL
 
-Passenger registration
+  
 
-Book/cancel seats
-
-Ticket generation
-
-Persistent storage using MySQL
-
-Clean OOP structure (Bus, Route, Passenger, Reservation)
 
