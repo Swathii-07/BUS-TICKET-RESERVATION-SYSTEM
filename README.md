@@ -53,6 +53,17 @@ Any Java IDE (VS Code with extensions)
 
 ![BOOK A SEAT](https://github.com/user-attachments/assets/ffcc8a36-34bb-4b08-8401-fc08fd2719ff)
 
+### FUTURE ENHANCEMENTS
+
+- Biometric Login (Fingerprint/Face ID)
+- UPI Payment Integration
+- QR Code Tickets
+- Advanced Admin Dashboard
+- Live Bus Tracking (GPS Integration)
+- Cloud Database Support
+- Mobile App Version (Android)
+- Dark/Light Theme UI
+
 
 
 
