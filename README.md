@@ -16,7 +16,7 @@
 
 - Installing required JAR files
 - Installing MySQL Connector/J
-- Running the project using batch file (.bat) [BUS TICKET -> jdbc -> run.bat]
+- Running the project using batch file (.bat) [BUS TICKET -> jdbc_project -> run.bat]
 
 ## TECH STACKS
 
