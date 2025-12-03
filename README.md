@@ -44,8 +44,10 @@ JDBC Driver (mysql-connector-j.jar)
 Any Java IDE (VS Code with extensions)
 
 ### IMAGE
-
-<img width="1920" height="1080" alt="BUS TICKET RESERVATION" src="![LOGIN](https://github.com/user-attachments/assets/e11f57a3-7979-4a3b-968b-39a90108b2c4)"/>
+![BUSES](https://github.com/user-attachments/assets/5d53f9a0-7e84-4781-8359-74db4e2dbfaf)
+![BOOK A SEAT](https://github.com/user-attachments/assets/ffcc8a36-34bb-4b08-8401-fc08fd2719ff)
+![USER LOGIN](https://github.com/user-attachments/assets/e4cf2ce2-5680-40be-adb8-d13ae6ea6abf)
+![LOGIN](https://github.com/user-attachments/assets/fb5dfa62-3ba7-4a49-a08f-8e163654e9e8)
 
 
 
