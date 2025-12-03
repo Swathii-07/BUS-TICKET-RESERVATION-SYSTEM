@@ -9,6 +9,7 @@
 - Add/manage buses and routes [Admin]
 - User login with captcha
 - Book/cancel seats
+- User friendly coloured grid layout showing selected seats in yellow, available in green,not available in red.
 - Persistent storage using MySQL
 
 ## HOW TO LOAD
